@@ -1,0 +1,28 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+
+[theme]
+base = "dark"
+primaryColor = "#39b7a5"
+backgroundColor = "#0d1418"
+secondaryBackgroundColor = "#162127"
+textColor = "#e5eef0"
+linkColor = "#6dd8ca"
+borderColor = "#2a3b43"
+dataframeBorderColor = "#2a3b43"
+dataframeHeaderBackgroundColor = "#1b2a31"
+font = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+headingFont = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;600;700&display=swap"
+baseFontSize = 14
+baseFontWeight = 400
+headingFontSizes = ["32px", "24px", "20px", "16px", "14px", "12px"]
+headingFontWeights = [600, 600, 600, 500, 500, 500]
+greenColor = "#55c98b"
+redColor = "#f07878"
+orangeColor = "#e4ae62"
+blueColor = "#70a9ff"
+grayColor = "#91a4aa"
+chartCategoricalColors = ["#39b7a5", "#70a9ff", "#e4ae62", "#f07878", "#91a4aa", "#b59cff"]
